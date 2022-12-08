@@ -24,3 +24,12 @@ C:\Users\Administrator\Desktop\workspace\obj\Debug\NumbcubePusher.csproj.Generat
 C:\Users\Administrator\Desktop\workspace\obj\Debug\NumbcubePusher.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\workspace\obj\Debug\NumbcubePusher.exe
 C:\Users\Administrator\Desktop\workspace\obj\Debug\NumbcubePusher.pdb
+C:\Users\Administrator\Documents\GitHub\NumbCube-pusher\bin\Debug\NumbcubePusher.exe
+C:\Users\Administrator\Documents\GitHub\NumbCube-pusher\bin\Debug\NumbcubePusher.pdb
+C:\Users\Administrator\Documents\GitHub\NumbCube-pusher\obj\Debug\NumbcubePusher.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\NumbCube-pusher\obj\Debug\NumbcubePusher.Form1.resources
+C:\Users\Administrator\Documents\GitHub\NumbCube-pusher\obj\Debug\NumbcubePusher.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\NumbCube-pusher\obj\Debug\NumbcubePusher.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\GitHub\NumbCube-pusher\obj\Debug\NumbcubePusher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\NumbCube-pusher\obj\Debug\NumbcubePusher.exe
+C:\Users\Administrator\Documents\GitHub\NumbCube-pusher\obj\Debug\NumbcubePusher.pdb

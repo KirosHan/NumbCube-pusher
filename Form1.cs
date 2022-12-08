@@ -187,7 +187,7 @@ namespace NumbcubePusher
                 ini.IniWriteValue("串流设置", "bitRate", "2000");
                 ini.IniWriteValue("串流设置", "resolution", "0");
                 textBox2.Text = "rtmp://stream.numbcube.com/numblive/";
-                textBox3.Text = "2b35ab624dcf336";
+                textBox3.Text = "livestreamcode";
                 bitRateBox.Enabled = false;
                 resolutionBox.Enabled = false;
                 resolutionBox.SelectedIndex = 0;
