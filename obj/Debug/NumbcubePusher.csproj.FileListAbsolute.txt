@@ -15,3 +15,12 @@ C:\Users\JoJo\Desktop\auto play\NumbcubePusher\obj\Debug\NumbcubePusher.Form1.re
 C:\Users\JoJo\Desktop\auto play\NumbcubePusher\obj\Debug\NumbcubePusher.Properties.Resources.resources
 C:\Users\JoJo\Desktop\auto play\NumbcubePusher\obj\Debug\NumbcubePusher.csproj.GenerateResource.cache
 C:\Users\JoJo\Desktop\auto play\NumbcubePusher\obj\Debug\NumbcubePusher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\workspace\bin\Debug\NumbcubePusher.exe
+C:\Users\Administrator\Desktop\workspace\bin\Debug\NumbcubePusher.pdb
+C:\Users\Administrator\Desktop\workspace\obj\Debug\NumbcubePusher.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\workspace\obj\Debug\NumbcubePusher.Form1.resources
+C:\Users\Administrator\Desktop\workspace\obj\Debug\NumbcubePusher.Properties.Resources.resources
+C:\Users\Administrator\Desktop\workspace\obj\Debug\NumbcubePusher.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\workspace\obj\Debug\NumbcubePusher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\workspace\obj\Debug\NumbcubePusher.exe
+C:\Users\Administrator\Desktop\workspace\obj\Debug\NumbcubePusher.pdb
