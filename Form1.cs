@@ -111,7 +111,7 @@ namespace NumbcubePusher
                     }
                         FileStream fs = new FileStream(Application.StartupPath + @"\readytoplay.bat", FileMode.Create);
                     //获得字节数组
-                    byte[] data = System.Text.Encoding.Default.GetBytes("title=正在放映: " + textBox1.Text.Trim() + "\r\nffmpeg -re -i " + textBox1.Text.Trim() + " -c copy -f flv "+ x264str +bitstr+resstr +accstr+" "+ textBox2.Text.Trim() + textBox3.Text.Trim());
+                    byte[] data = System.Text.Encoding.Default.GetBytes("title=正在放映: " + textBox1.Text.Trim() + "\r\nffmpeg -re -i " + textBox1.Text.Trim() + " -c copy -f flv "+ x264str +bitstr+resstr +accstr+" "+ textBox2.Text.Trim() +"/"+ textBox3.Text.Trim());
 
                
                         fs.Write(data, 0, data.Length);
@@ -165,7 +165,7 @@ namespace NumbcubePusher
                     resolutionBox.SelectedIndex = int.Parse(ini.IniReadValue("串流设置", "resolution"));
                 }
                 catch {
-                    ini.IniWriteValue("串流设置", "推流地址", "rtmp://stream.numbcube.com/numblive/");
+                    ini.IniWriteValue("串流设置", "推流地址", "rtmp://stream.numbcube.com/numblive");
                     ini.IniWriteValue("串流设置", "直播码", "livestreamcode");
                     ini.IniWriteValue("串流设置", "aac", "1");
                     ini.IniWriteValue("串流设置", "x264", "0");
